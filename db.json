@@ -1,0 +1,70 @@
+{
+  "dataCiUsers": [
+    {
+      "id": "1",
+      "firstName": "Ana",
+      "lastName": "Popescu",
+      "idNumber": "2800101123456",
+      "birthDate": "1980-01-01",
+      "issueDate": "2018-01-15",
+      "expiryDate": "2028-01-15",
+      "address": "Str. Primăverii 10, București",
+      "photo": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    {
+      "id": "3",
+      "firstName": "Elena",
+      "lastName": "Ionescu",
+      "idNumber": "2900303123456",
+      "birthDate": "1990-03-03",
+      "issueDate": "2020-04-20",
+      "expiryDate": "2030-04-20",
+      "address": "Str. Victoriei 5, Timișoara",
+      "photo": "https://randomuser.me/api/portraits/women/33.jpg"
+    },
+    {
+      "id": "4",
+      "firstName": "Adrian",
+      "lastName": "Popa",
+      "idNumber": "1850707123456",
+      "birthDate": "1985-07-07",
+      "issueDate": "2017-08-15",
+      "expiryDate": "2022-11-15",
+      "address": "Str. Libertății 15, Iași",
+      "photo": "https://randomuser.me/api/portraits/men/55.jpg"
+    },
+    {
+      "id": "5",
+      "firstName": "Maria",
+      "lastName": "Stanescu",
+      "idNumber": "2950808123456",
+      "birthDate": "1995-08-08",
+      "issueDate": "2019-09-01",
+      "expiryDate": "2029-09-01",
+      "address": "B-dul Independenței 30, Brașov",
+      "photo": "https://randomuser.me/api/portraits/women/22.jpg"
+    },
+    {
+      "id": "ox18fx0",
+      "firstName": "Ioana ",
+      "lastName": "Dinca",
+      "idNumber": "111223344556677",
+      "birthDate": "2010-02-12",
+      "issueDate": "2015-07-12",
+      "expiryDate": "2025-05-14",
+      "address": "strada Alunului nr 3",
+      "photo": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    {
+      "id": "npbvehw",
+      "firstName": "Marian",
+      "lastName": "Ilie",
+      "idNumber": "7788811123311233",
+      "birthDate": "2006-07-12",
+      "issueDate": "2020-05-12",
+      "expiryDate": "2026-05-14",
+      "address": "str pandurului 3333",
+      "photo": "https://randomuser.me/api/portraits/men/47.jpg"
+    }
+  ]
+}

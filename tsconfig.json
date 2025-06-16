@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+    "jsx": "react",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "noImplicitAny": false,
+    "noUnusedParameters": false,
+    "skipLibCheck": true,
+    "allowJs": true,
+    "esModuleInterop":true,
+    "noUnusedLocals": false,
+    "strictNullChecks": false,
+    "outDir": "./dist" // Ensure output files are written to a separate directory
+  }
+}
